@@ -5,5 +5,5 @@ Predict the risk of hospital readmission for patients who have been discharged f
 K-NN Neigbors,Logistic Regression,Gradient Boosting Classifier,RandomForest, Decision Tree
 
 # Result
-Grdaient boosting has the best performance with auc accuracy  75%  which out performs other models.
+Grdaient Boosting Classifier has the best performance with auc accuracy  75%  which out performs other models.
 We got an accuracy of 76% readmission within 30 days
